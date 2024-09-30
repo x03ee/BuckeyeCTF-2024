@@ -1,2 +1,2 @@
 
-![logo](https://github.com/x03ee/BuckeyeCTF-2024/blob/main/Buckeye.png)
+![logo](https://github.com/x03ee/BuckeyeCTF-2024/blob/main/Placement.PNG)
