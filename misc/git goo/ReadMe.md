@@ -1,6 +1,6 @@
 # Misc - Git Goo
 
-![Challenge](https://github.com/x03ee/H7CTF-Writeups/blob/main/misc/had%20lunch/challenge.png)
+
 
 ## Solution
 
@@ -11,9 +11,11 @@ To solve this challenge, we utilized the following scripts:
 
 Upon running these scripts, we discovered a file named `flag.txt`. Opening this file revealed the flag.
 
-![Flag Revealed](https://github.com/x03ee/H7CTF-Writeups/blob/main/misc/had%20lunch/flag.png)
+![Challenge](https://github.com/x03ee/BuckeyeCTF-2024/blob/main/misc/git%20goo/step1.PNG)
 
-![Flag Reveal 2](https://github.com/x03ee/H7CTF-Writeups/blob/main/misc/had%20lunch/flag.png)
+![Flag Revealed](https://github.com/x03ee/BuckeyeCTF-2024/blob/main/misc/git%20goo/step2.PNG)
+
+![Flag Reveal 2](https://github.com/x03ee/BuckeyeCTF-2024/blob/main/misc/git%20goo/step3.PNG)
 
 ## Final Flag
 
